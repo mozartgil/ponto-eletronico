@@ -1,0 +1,15 @@
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/bin/Debug/net6.0/Ponto Eletronico
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/bin/Debug/net6.0/Ponto Eletronico.deps.json
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/bin/Debug/net6.0/Ponto Eletronico.runtimeconfig.json
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/bin/Debug/net6.0/Ponto Eletronico.dll
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/bin/Debug/net6.0/Ponto Eletronico.pdb
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.csproj.AssemblyReference.cache
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.AssemblyInfoInputs.cache
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.AssemblyInfo.cs
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.csproj.CoreCompileInputs.cache
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.dll
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/refint/Ponto Eletronico.dll
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.pdb
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/Ponto Eletronico.genruntimeconfig.cache
+/Users/mozartgil/Dropbox/Dev/2022/Ponto Eletronico/obj/Debug/net6.0/ref/Ponto Eletronico.dll
